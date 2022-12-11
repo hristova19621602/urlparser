@@ -25,7 +25,7 @@ typedef enum TSymbolType
 	semicolon, period, quotas, othersy, colon, rSlash, lSlash, atsign, safe
 }TSymbol; int Constant;
 const int MAXINTEGER = 1000000;
-const std::string fileName{ "C:/Users/Tanya/OneDrive/Desktop/iii/url.txt" };
+const std::string fileName{ "filename" };
 
 
 TSymbol Symbol;
